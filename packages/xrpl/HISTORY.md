@@ -4,6 +4,9 @@ Subscribe to [the **xrpl-announce** mailing list](https://groups.google.com/g/xr
 
 ## Unreleased Changes
 
+### Added
+* Add support for `Batch` amendment (XLS-56).
+
 ## 4.1.0 (2024-12-23)
 
 ### Added
